@@ -11,7 +11,7 @@
   <img align="center" alt="ThC-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="ThC-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="ThC-ASP" height="30" width="40" src="https://pics.freeicons.io/uploads/icons/png/14621971553750220-512.png">
-  <img align="center" alt="ThC-ASP" height="30" width="40" src="https://mpng.subpng.com/20180715/gzu/kisspng-java-development-kit-software-development-kit-comp-programming-language-icon-5b4b9cb1e74f20.0073080715316819699475.jpg">
+  <img align="center" alt="ThC-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   
 </div>
   
