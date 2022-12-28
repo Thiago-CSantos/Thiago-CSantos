@@ -47,7 +47,7 @@ Conhecimentos nas linguagens de programação C e Java. E para desenvolvimento w
   
 <div align = "center">
     <h2 align="center">Portfolio : </h2>
-  <a href="https://portifolio-thiago-santos.netlify.app/"> <img src="https://github.com/Thiago-CSantos/assets/blob/main/CapturaPortfolio.png" alt="Captuta de  Portifólio-ThiagoCSantos" target="_blank"> PORTFOLIO</a>
+  <a href="https://portifolio-thiago-santos.netlify.app/" target="_blank"> <img src="https://github.com/Thiago-CSantos/assets/blob/main/CapturaPortfolio.png" alt="Captuta de  Portifólio-ThiagoCSantos"> PORTFOLIO</a>
   </div>
  </div>
 <!-- 
