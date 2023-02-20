@@ -30,7 +30,7 @@ Conhecimentos nas linguagens de programação C e Java. E para desenvolvimento w
   <img align="center" alt="ThC-C++" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png">
 <!--   <img align="center" alt="ThC-ASP" height="30" width="40" src="https://pics.freeicons.io/uploads/icons/png/14621971553750220-512.png"> -->
   <img align="center" alt="ThC-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  
+  <img align="center" alt="ThC-Flutter" height="30" width="40" src="https://img.icons8.com/color/512/flutter.png">
 </div>
   
   ##
