@@ -1,4 +1,5 @@
-## Olá! Eu sou Thiago C Santos;
+## Olá! Eu sou Thiago C Santos; <img align="right" src="https://img.shields.io/github/stars/rafaelalmeidaV?label=Stars&style=social" alt="GitHub Badge"> <a href="https://github.com/Thiago-CSantos?tab=followers"><img align="right" src="https://img.shields.io/github/followers/Thiago-CSantos?label=Followers&style=social" alt="GitHub Badge"></a> <a href="https://github.com/Thiago-CSantos">  <img align="right" src="https://komarev.com/ghpvc/?username=Thiago-CSantos"></a>
+
 
 <div align="center">
       <img height ="500" src="https://raw.githubusercontent.com/LeandroDukievicz/LeandroDukievicz/main/gifs/hello.gif"/>
@@ -11,7 +12,6 @@ _**<h2>Sobre:</h2>**_
     <p align="justify">Estudante do 3º semestre da Centro Universitário das Faculdades Associadas de Ensino(UniFae). Interesse na área de programação Back-End, aprendendo mais sobre Java, Orientação Objeto e SQL, realizando curso da Udemy. 
 Conhecimentos nas linguagens de programação C e Java. E para desenvolvimento web conhecimentos em HTML, CSS e Bootstrap.</p> <br>
 </div>     
-
       
 <section align="center">
   <h2 align="center"> Informações do Perfil:</h2>
@@ -20,23 +20,25 @@ Conhecimentos nas linguagens de programação C e Java. E para desenvolvimento w
       <br>
 
 <div align="center">
+      <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiago-CSantos&langs_count=8&theme=react" />
   <a href="https://github.com/Thiago-CSantos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Thiago-CSantos&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiago-CSantos&layout=compact&langs_count=7&theme=midnight-purple"/>
+        <br>
 </div>
+      <br>
   <div align="center" style="display: inline_block"><br>
   <img align="center" alt="ThC-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="ThC-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="ThC-C++" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png">
 <!--   <img align="center" alt="ThC-ASP" height="30" width="40" src="https://pics.freeicons.io/uploads/icons/png/14621971553750220-512.png"> -->
   <img align="center" alt="ThC-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" alt="ThC-Flutter" height="30" width="40" src="https://img.icons8.com/color/512/flutter.png">
+  <img align="center" alt="ThC-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+  <img align="center" alt="ThC-java-script" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+  <img align="center" alt="react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
+  <img align="center" alt="react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
 </div>
-  
-  ##
-  
-  
   <div> 
+        <br>
   <a href="https://www.instagram.com/__thcx.y__/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:thiagocarretero433@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/thiago-santos-thc/" target="_blank"><img  src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
