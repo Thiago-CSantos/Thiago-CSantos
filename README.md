@@ -20,7 +20,7 @@ Conhecimentos nas linguagens de programação C e Java. E para desenvolvimento w
       <br>
 
 <div align="center">
-      <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiago-CSantos&langs_count=8&theme=react" />
+      <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiago-CSantos&langs_count=8&theme=midnight-purple" />
   <a href="https://github.com/Thiago-CSantos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Thiago-CSantos&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiago-CSantos&layout=compact&langs_count=7&theme=midnight-purple"/>
