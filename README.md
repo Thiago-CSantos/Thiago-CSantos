@@ -9,10 +9,36 @@
 <div align = "center">
     
 _**<h2>Sobre:</h2>**_
-    <p align="justify">Estudante do 3º semestre da Centro Universitário das Faculdades Associadas de Ensino(UniFae). Interesse na área de programação Back-End, aprendendo mais sobre Java, Orientação Objeto e SQL, realizando curso da Udemy. 
-Conhecimentos nas linguagens de programação C e Java. E para desenvolvimento web conhecimentos em HTML, CSS e Bootstrap.</p> <br>
+    <p align="justify"> Estudante do 3º semestre da Centro Universitário das Faculdades Associadas de Ensino(UniFae). Interesse na área de programação, aprendendo mais sobre TypeScript.<br> Conhecimentos nas linguagens de programação C, Java, Python, JavaScript. E para desenvolvimento web conhecimentos em HTML, CSS, JS e Bootstrap.
+    </p>
 </div>     
-      
+<p>
+<h3><b>Soft Skills:</b></h3>
+- Comunicação; <br>
+- Flexibilidade e Adaptabilidade; <br>
+- Resolução de problemas;<br>
+- Organização e gestão do tempo;<br>
+- Trabalho em equipe;<br>
+- Senso crítico e proatividade;<br>
+
+<h3><b>Hard Skills:</b></h3>
+- Java;<br>
+- Javascript/Typescript;<br>
+- Git & Github;<br>
+- C;<br>
+- Python;<br>
+
+<h4><b>Frontend:</b></h4> 
+      - React;<br>
+      - HTML + CSS;<br>
+      - Bootstrap;<br>
+
+<h4><b>Backend:</b></h4>
+      - MySql;
+
+<h4><b>UX/UI:</b></h4>
+      - Figma;
+</p>
 <section align="center">
   <h2 align="center"> Informações do Perfil:</h2>
   
@@ -30,7 +56,7 @@ Conhecimentos nas linguagens de programação C e Java. E para desenvolvimento w
   <div align="center" style="display: inline_block"><br>
   <img align="center" alt="ThC-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="ThC-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-<!--   <img align="center" alt="ThC-ASP" height="30" width="40" src="https://pics.freeicons.io/uploads/icons/png/14621971553750220-512.png"> -->
+  <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="ThC-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="ThC-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="ThC-java-script" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
