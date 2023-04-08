@@ -1,4 +1,4 @@
-## Olá! Eu sou Thiago C Santos; <img align="right" src="https://img.shields.io/github/stars/Thiago-CSantos?label=Stars&style=social" alt="GitHub Badge"> <a href="https://github.com/Thiago-CSantos?tab=followers"><img align="right" src="https://img.shields.io/github/followers/Thiago-CSantos?label=Followers&style=social" alt="GitHub Badge"></a> <a href="https://github.com/Thiago-CSantos">  <img align="right" src="https://komarev.com/ghpvc/?username=Thiago-CSantos"></a>
+## Hello! I'm Thiago C. Santos; <img align="right" src="https://img.shields.io/github/stars/Thiago-CSantos?label=Stars&style=social" alt="GitHub Badge"> <a href="https://github.com/Thiago-CSantos?tab=followers"><img align="right" src="https://img.shields.io/github/followers/Thiago-CSantos?label=Followers&style=social" alt="GitHub Badge"></a> <a href="https://github.com/Thiago-CSantos">  <img align="right" src="https://komarev.com/ghpvc/?username=Thiago-CSantos"></a>
 
 
 <div align="center">
