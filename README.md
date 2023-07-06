@@ -34,6 +34,7 @@ _**<h2>Sobre:</h2>**_
       - Bootstrap;<br>
 
 <h4><b>Backend:</b></h4>
+      - Spring-Boot(Java);
       - MySql;
 
 <h4><b>UX/UI:</b></h4>
