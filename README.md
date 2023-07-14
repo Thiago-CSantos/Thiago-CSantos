@@ -9,7 +9,7 @@
 <div align = "center">
     
 _**<h2>Sobre:</h2>**_
-    <p align="justify"> Estudante do 3º semestre da Centro Universitário das Faculdades Associadas de Ensino(UniFae). Interesse na área de programação, aprendendo mais sobre TypeScript.<br> Conhecimentos nas linguagens de programação C, Java, Python, JavaScript. E para desenvolvimento web conhecimentos em HTML, CSS, JS e Bootstrap.
+    <p align="justify"> Estudante do 4º semestre da Centro Universitário das Faculdades Associadas de Ensino(UniFae). Interesse na área de programação, aprendendo mais sobre TypeScript.<br> Conhecimentos nas linguagens de programação C, Java, Python, JavaScript. E para desenvolvimento web conhecimentos em HTML, CSS, JS e Bootstrap.
     </p>
 </div>     
 <p>
@@ -29,13 +29,14 @@ _**<h2>Sobre:</h2>**_
 - Python;<br>
 
 <h4><b>Frontend:</b></h4> 
-      - React;<br>
+      - React.js;<br>
       - HTML + CSS;<br>
       - Bootstrap;<br>
 
 <h4><b>Backend:</b></h4>
       - Spring-Boot(Java);
       - MySql;
+      - PostgreSQL
 
 <h4><b>UX/UI:</b></h4>
       - Figma;
