@@ -1,18 +1,19 @@
-## Hello! I'm Thiago C. Santos; <img align="right" src="https://img.shields.io/github/stars/Thiago-CSantos?label=Stars&style=social" alt="GitHub Badge"> <a href="https://github.com/Thiago-CSantos?tab=followers"><img align="right" src="https://img.shields.io/github/followers/Thiago-CSantos?label=Followers&style=social" alt="GitHub Badge"></a> <a href="https://github.com/Thiago-CSantos">  <img align="right" src="https://komarev.com/ghpvc/?username=Thiago-CSantos"></a>
+## Hi There! 👋<img align="right" src="https://img.shields.io/github/stars/Thiago-CSantos?label=Stars&style=social" alt="GitHub Badge"> <a href="https://github.com/Thiago-CSantos?tab=followers"><img align="right" src="https://img.shields.io/github/followers/Thiago-CSantos?label=Followers&style=social" alt="GitHub Badge"></a> <a href="https://github.com/Thiago-CSantos">  <img align="right" src="https://komarev.com/ghpvc/?username=Thiago-CSantos"></a>
 
+  [![Linkedin Badge](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white&color=8A2BE2)](https://www.instagram.com/__thcx.y__/)
+  [![Linkedin Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=8A2BE2)](mailto:thiagocarretero433@gmail.com)
+  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&color=8A2BE2)](https://www.linkedin.com/in/thiago-santos-thc/)
+  [![Linkedin Badge](https://img.shields.io/badge/-Website-6633cc?style=for-the-badge&logo=Me&logoColor=white&color=8A2BE2&link=https://www.fernandakipper.com/)](https://portifolio-thiago-santos.netlify.app/)
 
-<div align="center">
-      <img height ="500" src="https://raw.githubusercontent.com/LeandroDukievicz/LeandroDukievicz/main/gifs/hello.gif"/>
-</div>
-    
-    
-<div align = "center">
-    
-_**<h2>Sobre:</h2>**_
-    <p align="justify"> Estudante do 4º semestre da Centro Universitário das Faculdades Associadas de Ensino(UniFae). Interesse na área de programação, aprendendo mais sobre TypeScript.<br> Conhecimentos nas linguagens de programação C, Java, Python, JavaScript. E para desenvolvimento web conhecimentos em HTML, CSS, JS e Bootstrap.
-    </p>
-</div>     
-<p>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiago-CSantos&langs_count=8&theme=midnight-purple" />
+
+## My name is Thiago C. Santos
+(Spring Boot | React.js | Java | Javascript | C | HTML | CSS | Typescript-'in study') 🚀
+
+Estudante do 4º semestre da Centro Universitário das Faculdades Associadas de Ensino(UniFae). Interesse na área de programação.<br> Conhecimentos nas linguagens de programação C, Java, Python, JavaScript. E para desenvolvimento web conhecimentos em HTML, CSS, JS e Bootstrap.
+- 🎓 Software Enginner Student
+- Passionate about web development
+        
 <h3><b>Soft Skills:</b></h3>
 - Comunicação; <br>
 - Flexibilidade e Adaptabilidade; <br>
@@ -43,17 +44,12 @@ _**<h2>Sobre:</h2>**_
 </p>
 <section align="center">
   <h2 align="center"> Informações do Perfil:</h2>
-  
 </section>
       <br>
 
 <div align="center">
-      <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiago-CSantos&langs_count=8&theme=midnight-purple" />
-      <a href="https://github.com/Thiago-CSantos">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Thiago-CSantos&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Thiago-CSantos&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
 </div>
-      <br>
-      <br/>
   <div align="center" style="display: inline_block"><br>
   <img align="center" alt="ThC-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="ThC-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -64,22 +60,7 @@ _**<h2>Sobre:</h2>**_
   <img align="center" alt="react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
   <img align="center" alt="react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
 </div>
-  <div align="center"> 
-        <br>
-<h2 align="center">Social Links:</h2>
-  <a href="https://www.instagram.com/__thcx.y__/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:thiagocarretero433@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/thiago-santos-thc/" target="_blank"><img  src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
 
- 
-  <div align="center">
-  
-<div align = "center">
-    <h2 align="center">Portfolio : </h2>
-  <a href="https://portifolio-thiago-santos.netlify.app/" target="_blank"> <img src="https://github.com/Thiago-CSantos/assets/blob/main/CapturaPortfolio.png" alt="Captuta de  Portifólio-ThiagoCSantos"> PORTFOLIO</a>
-  </div>
- </div>
 <!-- 
 <section align="center">
    <h2>Linguagens/Frameworks e Ferramentas:</h2>
