@@ -8,7 +8,7 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiago-CSantos&langs_count=8&theme=midnight-purple" />
 
 ## My name is Thiago C. Santos
-(Spring Boot | React.js | Java | Javascript | C | HTML | CSS | Typescript-'in study') 🚀
+(Spring Boot | React.js | Java | Javascript | C | HTML | CSS | Typescript and NestJS'in study') 🚀
 
 Estudante do 4º semestre da Centro Universitário das Faculdades Associadas de Ensino(UniFae). Interesse na área de programação.<br> Conhecimentos nas linguagens de programação C, Java, Python, JavaScript. E para desenvolvimento web conhecimentos em HTML, CSS, JS e Bootstrap.
 - 🎓 Software Enginner Student
