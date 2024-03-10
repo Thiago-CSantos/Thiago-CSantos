@@ -8,7 +8,7 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiago-CSantos&langs_count=8&theme=midnight-purple" />
 
 ## My name is Thiago C. Santos
-(Spring Boot | React.js | Java | Javascript | C | HTML | CSS | Typescript and NestJS'in study') 🚀
+(Spring Boot | React.js | Java | Javascript | C | C# | HTML | CSS | Typescript | NestJS) 🚀
 
 Estudante do 4º semestre da Centro Universitário das Faculdades Associadas de Ensino(UniFae). Interesse na área de programação.<br> Conhecimentos nas linguagens de programação C, Java, Python, JavaScript. E para desenvolvimento web conhecimentos em HTML, CSS, JS e Bootstrap.
 - 🎓 Software Enginner Student
@@ -48,17 +48,11 @@ Estudante do 4º semestre da Centro Universitário das Faculdades Associadas de 
       <br>
 
 <div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Thiago-CSantos&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/Thiago-CSantos">
+  <img height="200rem" src="https://github-readme-streak-stats.herokuapp.com/?user=Thiago-CSantos&theme=midnight-purple" alt="Netsujr" />
+  </a>
 </div>
-  <div align="center" style="display: inline_block"><br>
-  <img align="center" alt="ThC-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="ThC-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="ThC-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" alt="ThC-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img align="center" alt="ThC-java-script" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-  <img align="center" alt="react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
-  <img align="center" alt="react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+<br/>
 </div>
 
 <!-- 
