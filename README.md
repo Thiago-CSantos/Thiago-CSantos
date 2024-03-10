@@ -8,7 +8,7 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiago-CSantos&langs_count=8&theme=midnight-purple" />
 
 ## My name is Thiago C. Santos
-(Spring Boot | React.js | Java | Javascript | C | C# | HTML | CSS | Typescript | NestJS) 🚀
+(Spring Boot | React.js | Java | Javascript | C | C# | HTML | CSS | Typescript | Node.js | NestJS) 🚀
 
 Estudante do 4º semestre da Centro Universitário das Faculdades Associadas de Ensino(UniFae). Interesse na área de programação.<br> Conhecimentos nas linguagens de programação C, Java, Python, JavaScript. E para desenvolvimento web conhecimentos em HTML, CSS, JS e Bootstrap.
 - 🎓 Software Enginner Student
@@ -53,8 +53,16 @@ Estudante do 4º semestre da Centro Universitário das Faculdades Associadas de 
   </a>
 </div>
 <br/>
+<div align="center" style="display: inline_block"><br>
+  <img align="center" alt="ThC-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="ThC-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align="center" alt="ThC-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img align="center" alt="ThC-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+  <img align="center" alt="ThC-java-script" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+  <img align="center" alt="react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
+  <img align="center" alt="react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
 </div>
-
 <!-- 
 <section align="center">
    <h2>Linguagens/Frameworks e Ferramentas:</h2>
