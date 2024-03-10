@@ -26,7 +26,7 @@ Estudante do 4º semestre da Centro Universitário das Faculdades Associadas de 
 - Java;<br>
 - Javascript/Typescript;<br>
 - Git & Github;<br>
-- C;<br>
+- C, C#;<br>
 - Python;<br>
 
 <h4><b>Frontend:</b></h4> 
