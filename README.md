@@ -33,11 +33,14 @@ Estudante do 4º semestre da Centro Universitário das Faculdades Associadas de 
       - React.js;<br>
       - HTML + CSS;<br>
       - Bootstrap;<br>
+      - Tailwindcss;<br>
 
 <h4><b>Backend:</b></h4>
-      - Spring-Boot(Java);
-      - MySql;
-      - PostgreSQL
+      - Spring-Boot(Java);<br>
+      - C# ASPNET;<br>
+      - MySql;<br>
+      - PostgreSQL;<br>
+      - SQLServer;<br>
 
 <h4><b>UX/UI:</b></h4>
       - Figma;
