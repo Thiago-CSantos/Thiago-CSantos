@@ -10,8 +10,7 @@
 ## My name is Thiago C. Santos
 (Spring Boot | React.js | Java | Javascript | C | C# | HTML | CSS | Typescript | Node.js | NestJS) 🚀
 
-Estudante do 4º semestre da Centro Universitário das Faculdades Associadas de Ensino(UniFae). Interesse na área de programação.<br> Conhecimentos nas linguagens de programação C, Java, Python, JavaScript. E para desenvolvimento web conhecimentos em HTML, CSS, JS e Bootstrap.
-- 🎓 Software Enginner Student
+- 🎓 Software Enginner
 - Passionate about web development
         
 <h3><b>Soft Skills:</b></h3>
